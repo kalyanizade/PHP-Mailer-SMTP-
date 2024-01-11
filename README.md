@@ -17,9 +17,9 @@
 
 # PHPMailer Script to Send Email Using SMTP Authentication:
 
-1 From: the sender's email address.
-2 FromName: the sender's name.
-3 AddAddress: the recipient's email address and name.
-4 AddReplyTo: the reply-to email address and name.
-5 Username: your SMTP username.
-6 Password: your SMTP password.
+- From: the sender's email address.
+- FromName: the sender's name.
+- AddAddress: the recipient's email address and name.
+- AddReplyTo: the reply-to email address and name.
+- Username: your SMTP username.
+- Password: your SMTP password.

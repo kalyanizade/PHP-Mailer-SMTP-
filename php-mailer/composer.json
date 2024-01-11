@@ -1,0 +1,17 @@
+{
+    "name": "kalyani/new-mailer",
+    "autoload": {
+        "psr-4": {
+            "Kalyani\\NewMailer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KAYANI",
+            "email": "kalyanizade121@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
